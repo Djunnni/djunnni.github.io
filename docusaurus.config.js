@@ -25,7 +25,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "ko"],
+    locales: ["en"],
   },
 
   presets: [
@@ -60,17 +60,17 @@ const config = {
       navbar: {
         title: "Djunnni",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "Djunnni github logo",
+          src: "https://github.com/djunnni.png",
         },
         items: [
+          { to: "/blog", label: "Blog", position: "left" },
           {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "Tech",
           },
-          { to: "/blog", label: "Blog", position: "left" },
         ],
       },
       footer: {
