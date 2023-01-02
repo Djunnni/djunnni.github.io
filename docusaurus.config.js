@@ -50,6 +50,10 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        gtag: {
+          trackingID: "G-4FF73XFEFX",
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -70,6 +74,11 @@ const config = {
             docId: "intro",
             position: "left",
             label: "Tech",
+          },
+          {
+            href: "https://github.com/djunnni",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
