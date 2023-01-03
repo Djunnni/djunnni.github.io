@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[234],{5705:s=>{s.exports=JSON.parse('{"label":"SQL","permalink":"/docs/tags/sql","allTagsPath":"/docs/tags","count":1,"items":[{"id":"jpa/1","title":"1. SQL\uc744 \uc9c1\uc811 \ub2e4\ub8f0 \ub54c \ubc1c\uc0dd\ud558\ub294 \ubb38\uc81c\uc810","description":"","permalink":"/docs/jpa/1"}]}')}}]);
