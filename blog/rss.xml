@@ -4,15 +4,15 @@
         <title>Djunnni Blog</title>
         <link>https://djunnni.github.io/blog</link>
         <description>Djunnni Blog</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 05:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
+            <title><![CDATA[2023년 1월 5일 일지]]></title>
             <link>https://djunnni.github.io/blog/20230105</link>
             <guid>20230105</guid>
-            <pubDate>Thu, 05 Jan 2023 05:38:35 GMT</pubDate>
+            <pubDate>Thu, 05 Jan 2023 05:41:28 GMT</pubDate>
             <description><![CDATA[다음주부터 프로젝트 시작인데 옛날에 지애님이 주신 포스트잇이 생각나서 적어봤어요.]]></description>
             <content:encoded><![CDATA[<p>다음주부터 프로젝트 시작인데 옛날에 지애님이 주신 포스트잇이 생각나서 적어봤어요.</p><p>프로덕트 리더가 조직의 프로덕트 방향을 이끄는 건 맞지만</p><p>늘 고민해야 하는 건</p><p>"사용자에게 합리적인 가치를 전하는가?"</p><p>"사용자의 이용을 유지(Retiention)하기에 충분한가?"</p><p>"경험이 충분히 매끄러운가?"</p><p>하는 부분이다. 제품에서도, 브랜딩에서도.</p>]]></content:encoded>
             <category>daily</category>
