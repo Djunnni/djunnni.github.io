@@ -78,11 +78,11 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: "light",
-        links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} Djunnni, Inc. Built with Docusaurus.`,
-      },
+      // footer: {
+      //   style: "light",
+      //   links: [],
+      //   copyright: `Copyright © ${new Date().getFullYear()} Djunnni, Inc. Built with Docusaurus.`,
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
