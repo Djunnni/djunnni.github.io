@@ -4,15 +4,25 @@
         <title>Djunnni Blog</title>
         <link>https://djunnni.github.io/blog</link>
         <description>Djunnni Blog</description>
-        <lastBuildDate>Mon, 16 Jan 2023 11:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 13:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://djunnni.github.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Fri, 03 Feb 2023 13:45:40 GMT</pubDate>
+            <description><![CDATA[👋🏻 Hi there!]]></description>
+            <content:encoded><![CDATA[<p>👋🏻 Hi there!</p><p>2023년 1월 2일 블로그를 새롭게 개편하려고 합니다.</p><p>기존에 velog, gitbook, github 등 다양한 곳에 자료를 저장하다보니 파편화가 더 심해지더라구요.</p><p>이번기회에 변화를 줘봐야겠습니다 :)</p>]]></content:encoded>
+            <category>blog</category>
+            <category>docusaurus</category>
+        </item>
+        <item>
             <title><![CDATA[2023년 1월 5일 일지]]></title>
             <link>https://djunnni.github.io/blog/20230105</link>
             <guid>20230105</guid>
-            <pubDate>Mon, 16 Jan 2023 11:56:48 GMT</pubDate>
+            <pubDate>Fri, 03 Feb 2023 13:45:40 GMT</pubDate>
             <description><![CDATA[다음주부터 프로젝트 시작인데 옛날에 지애님이 주신 포스트잇이 생각나서 적어봤어요.]]></description>
             <content:encoded><![CDATA[<p>다음주부터 프로젝트 시작인데 옛날에 지애님이 주신 포스트잇이 생각나서 적어봤어요.</p><p>프로덕트 리더가 조직의 프로덕트 방향을 이끄는 건 맞지만</p><p>늘 고민해야 하는 건</p><p>"사용자에게 합리적인 가치를 전하는가?"</p><p>"사용자의 이용을 유지(Retiention)하기에 충분한가?"</p><p>"경험이 충분히 매끄러운가?"</p><p>하는 부분이다. 제품에서도, 브랜딩에서도.</p>]]></content:encoded>
             <category>daily</category>
@@ -21,7 +31,7 @@
             <title><![CDATA[2023년 1월 14일 일지]]></title>
             <link>https://djunnni.github.io/blog/20230114</link>
             <guid>20230114</guid>
-            <pubDate>Mon, 16 Jan 2023 11:56:48 GMT</pubDate>
+            <pubDate>Fri, 03 Feb 2023 13:45:40 GMT</pubDate>
             <description><![CDATA[[러셀의 명제와 논리]라는 책을 접했는데 책에서 정리해볼만한 요소들이 있어서 적어봐야겠다.]]></description>
             <content:encoded><![CDATA[<p>[러셀의 명제와 논리]<!-- -->라는 책을 접했는데 책에서 정리해볼만한 요소들이 있어서 적어봐야겠다.</p><ol><li>명제 - 참과 거짓을 명확히 판별할 수 있는 문장이나 식</li><li>명제는 가정과 결론으로 구성된다.<ul><li>p(가정)이면 q(결론)이다.</li></ul></li><li>역 / 이 / 대우의 관계<ul><li>문장 : p이면 q다.</li><li>역: q이면 p다.</li><li>이: ~p이면 ~q다.</li><li>대우: ~q이면 ~p다.</li></ul></li><li>충분조건과 필요조건<ul><li>p이면 q이다.<ul><li>p는 충분조건, q는 필요조건의 관계다.</li><li>ex) 정사각형이면 직사각형이다.</li></ul></li></ul></li><li>추론과 증명<ul><li>귀납 - 특수한 사실이나 원리를 통해 보편적인 원리나 법칙을 유도</li><li>연역 - 보편적인 원리나 법칙에서 특수한 원리나 사실을 유도</li></ul></li><li>귀류법과 수학적 귀납법<ul><li>직접 증명<ul><li>수식으로 증명하는 방법</li><li>a^2 - b^2 = (a + b)(a - b)</li></ul></li><li>간접 증명<ul><li>수학적 귀납법<ul><li>귀납적 추론 방법이 아닌 <strong>연역적 추론 방법</strong>을 활용한다.</li><li>초기 상태로 n = k일때로 증명 n = k + 1 때에도 성립함을 보임.</li></ul></li><li>귀류법<ul><li>명제의 결론을 부정해 모순이 발생하는 지 보여줌으로써 명제가 참임을 증명한다.</li></ul></li></ul></li></ul></li></ol>]]></content:encoded>
             <category>daily</category>
@@ -39,16 +49,6 @@
 아마 내년에도 참가할 것 같네요.</p><p>추가로 외국에 대학생이나 더 어린 나이도 자유롭게 facebook이나 기타 오픈소스에 기여하고 있다는 점이 놀랬습니다. 우리나라도 활성화되면 좋겠다 싶어서 제가 참여해본 경험기와 어떻게 시작했는지 정리해서 공유해보려고 합니다.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="등산을-다니면서">등산을 다니면서<a class="hash-link" href="#등산을-다니면서" title="Direct link to heading">​</a></h3><p>스스로 번아웃을 이기기 위해 등산을 많이 다녔습니다.</p><p>청계산을 시작으로 북한산, 무등산, 한라산을 다녔습니다. 꼭대기에 올라가면서 힘든 순간도 있지만 해낼 수 있다는 긍정적인 마인드를 놓치 않았죠.</p><p>이 기분을 다시 느껴보고 싶었던 것 같습니다.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="자격증을-취득하면서">자격증을 취득하면서<a class="hash-link" href="#자격증을-취득하면서" title="Direct link to heading">​</a></h3><p>저는 Opic IM과 SQLD를 취득했는데요. 자격증이 전부라는 의미는 아니라고 생각합니다. 대신 조금은 알고 있구나로 보이는 용도라고 생각합니다.</p><p>없는 채로 이야기 하기보다는 무엇이라도 +a 인 상태에서 말하는게 더 신빙성이 있어보이기 때문이죠.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="정리">정리<a class="hash-link" href="#정리" title="Direct link to heading">​</a></h3><p>스스로 많은 경험을 한 2022년 이네요. 2023년엔 부족했던 부분을 다듬어서 더 나은 개발자로 성장하고 싶어지고 목표를 잘 세워야 겠습니다.</p><p>블로그도 새롭게 여기서부터 내용을 잘 다듬어보려고 합니다.</p>]]></content:encoded>
             <category>회고</category>
             <category>2022</category>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://djunnni.github.io/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[👋🏻 Hi there!]]></description>
-            <content:encoded><![CDATA[<p>👋🏻 Hi there!</p><p>2023년 1월 2일 블로그를 새롭게 개편하려고 합니다.</p><p>기존에 velog, gitbook, github 등 다양한 곳에 자료를 저장하다보니 파편화가 더 심해지더라구요.</p><p>이번기회에 변화를 줘봐야겠습니다 :)</p>]]></content:encoded>
-            <category>blog</category>
-            <category>docusaurus</category>
         </item>
     </channel>
 </rss>
