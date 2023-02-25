@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://djunnni.github.io/blog</id>
     <title>Djunnni Blog</title>
-    <updated>2023-02-14T00:54:59.000Z</updated>
+    <updated>2023-02-25T14:19:59.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://djunnni.github.io/blog"/>
     <subtitle>Djunnni Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://djunnni.github.io/blog/welcome"/>
-        <updated>2023-02-14T00:54:59.000Z</updated>
+        <updated>2023-02-25T14:19:59.000Z</updated>
         <summary type="html"><![CDATA[👋🏻 Hi there!]]></summary>
         <content type="html"><![CDATA[<p>👋🏻 Hi there!</p><p>2023년 1월 2일 블로그를 새롭게 개편하려고 합니다.</p><p>기존에 velog, gitbook, github 등 다양한 곳에 자료를 저장하다보니 파편화가 더 심해지더라구요.</p><p>이번기회에 변화를 줘봐야겠습니다 :)</p>]]></content>
         <author>
@@ -25,7 +25,7 @@
         <title type="html"><![CDATA[2023년 1월 5일 일지]]></title>
         <id>20230105</id>
         <link href="https://djunnni.github.io/blog/20230105"/>
-        <updated>2023-02-14T00:54:59.000Z</updated>
+        <updated>2023-02-25T14:19:59.000Z</updated>
         <summary type="html"><![CDATA[다음주부터 프로젝트 시작인데 옛날에 지애님이 주신 포스트잇이 생각나서 적어봤어요.]]></summary>
         <content type="html"><![CDATA[<p>다음주부터 프로젝트 시작인데 옛날에 지애님이 주신 포스트잇이 생각나서 적어봤어요.</p><p>프로덕트 리더가 조직의 프로덕트 방향을 이끄는 건 맞지만</p><p>늘 고민해야 하는 건</p><p>"사용자에게 합리적인 가치를 전하는가?"</p><p>"사용자의 이용을 유지(Retiention)하기에 충분한가?"</p><p>"경험이 충분히 매끄러운가?"</p><p>하는 부분이다. 제품에서도, 브랜딩에서도.</p>]]></content>
         <author>
@@ -38,7 +38,7 @@
         <title type="html"><![CDATA[2023년 1월 14일 일지]]></title>
         <id>20230114</id>
         <link href="https://djunnni.github.io/blog/20230114"/>
-        <updated>2023-02-14T00:54:59.000Z</updated>
+        <updated>2023-02-25T14:19:59.000Z</updated>
         <summary type="html"><![CDATA[[러셀의 명제와 논리]라는 책을 접했는데 책에서 정리해볼만한 요소들이 있어서 적어봐야겠다.]]></summary>
         <content type="html"><![CDATA[<p>[러셀의 명제와 논리]<!-- -->라는 책을 접했는데 책에서 정리해볼만한 요소들이 있어서 적어봐야겠다.</p><ol><li>명제 - 참과 거짓을 명확히 판별할 수 있는 문장이나 식</li><li>명제는 가정과 결론으로 구성된다.<ul><li>p(가정)이면 q(결론)이다.</li></ul></li><li>역 / 이 / 대우의 관계<ul><li>문장 : p이면 q다.</li><li>역: q이면 p다.</li><li>이: ~p이면 ~q다.</li><li>대우: ~q이면 ~p다.</li></ul></li><li>충분조건과 필요조건<ul><li>p이면 q이다.<ul><li>p는 충분조건, q는 필요조건의 관계다.</li><li>ex) 정사각형이면 직사각형이다.</li></ul></li></ul></li><li>추론과 증명<ul><li>귀납 - 특수한 사실이나 원리를 통해 보편적인 원리나 법칙을 유도</li><li>연역 - 보편적인 원리나 법칙에서 특수한 원리나 사실을 유도</li></ul></li><li>귀류법과 수학적 귀납법<ul><li>직접 증명<ul><li>수식으로 증명하는 방법</li><li>a^2 - b^2 = (a + b)(a - b)</li></ul></li><li>간접 증명<ul><li>수학적 귀납법<ul><li>귀납적 추론 방법이 아닌 <strong>연역적 추론 방법</strong>을 활용한다.</li><li>초기 상태로 n = k일때로 증명 n = k + 1 때에도 성립함을 보임.</li></ul></li><li>귀류법<ul><li>명제의 결론을 부정해 모순이 발생하는 지 보여줌으로써 명제가 참임을 증명한다.</li></ul></li></ul></li></ul></li></ol>]]></content>
         <author>
